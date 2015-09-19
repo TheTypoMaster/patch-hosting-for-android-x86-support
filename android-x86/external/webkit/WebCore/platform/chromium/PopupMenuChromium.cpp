@@ -130,7 +130,7 @@ public:
     void setTextOnIndexChange(bool value) { m_setTextOnIndexChange = value; }
 
     // Sets whether we should accept the selected index when the popup is
-    // abandonned.
+    // abandoned.
     void setAcceptOnAbandon(bool value) { m_shouldAcceptOnAbandon = value; }
 
     // Sets whether pressing the down/up arrow when the last/first row is
